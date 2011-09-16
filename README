@@ -3,6 +3,11 @@
 
 
 ◆インストール
+/plugins/ ディレクトリに設置。
+モデル使ってはないので、DB周りの操作は必要なし。js/cssファイルはあり。
+
+./symfony cc
+./symfony plugin:publish-assets 
 
 ◆設定
 特に無し

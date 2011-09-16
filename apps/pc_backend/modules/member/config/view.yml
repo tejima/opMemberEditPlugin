@@ -1,0 +1,2 @@
+default:
+  javascripts: ["http://ajax.aspnetcdn.com/ajax/jquery/jquery-1.5.1.min.js","/opMemberEditPlugin/js/MemberEdit.js"]
