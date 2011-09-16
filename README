@@ -9,6 +9,14 @@
 ./symfony cc
 ./symfony plugin:publish-assets 
 
+
+管理画面メンバーリストに
+http://p.pne.jp/d/201109161331.png
+このようにリンクが付けば成功
+
+リンクをたどるとメールアドレスの変更画面にアクセスできる
+http://p.pne.jp/d/201109161333.png
+
 ◆設定
 特に無し
 
